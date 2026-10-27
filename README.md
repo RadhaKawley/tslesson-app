@@ -40,3 +40,9 @@ npm create vite@latest tslesson-app -- --template react-ts
 change directory:cd tslesson-app
 
 io install and run:npx ts-node src/coreTypes.ts
+
+
+
+npm init -y
+
+npm install --save-dev typescript ts-node

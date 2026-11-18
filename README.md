@@ -32,6 +32,7 @@ If you are developing a production application, we recommend enabling type-aware
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
 
 
+
 ## install instuction
 
 install type script:
@@ -46,3 +47,9 @@ io install and run:npx ts-node src/coreTypes.ts
 npm init -y
 
 npm install --save-dev typescript ts-node
+## install instruction
+npm create vite@latest tslesson-app -- --template react-ts
+
+change directory:cd tslesson-app
+npm install
+npm run dev

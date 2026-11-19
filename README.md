@@ -53,3 +53,6 @@ npm create vite@latest tslesson-app -- --template react-ts
 change directory:cd tslesson-app
 npm install
 npm run dev
+
+to run .ts file 
+npx ts-node src/shapes.ts
